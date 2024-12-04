@@ -19,6 +19,8 @@ Im Tab "Autorenbereich" oben rechts auf den "Erstellen"-Button klicken & "Kurs" 
 
 ![Bild 1](OLAT_1.jpg)
 
+*Bild 1*
+
 ![Bild 2](OLAT_2.jpg)
 
 *Bild 2: Durch die Wizard-Auswahl wird eine Vorauswahl an Kursbausteinen vorgeschlagen, die man je nach Bedarf teilweise oder ganz übernehmen kann. Später besteht sowohl die Möglichkeit, weitere Kursbausteine einzufügen, als auch an dieser Stelle ausgewählte wieder zu entfernen.*
@@ -29,11 +31,16 @@ Aus den Vorschlägen des Wizards/des Assistenten diejenigen Kursbausteine wähle
 
 ![Bild 3](OLAT_3.jpg)
 
+*Bild 3*
+
 ### Kurs publizieren 
 
 Unter "Kurs publizieren" kann alles so gelassen werden, unten rechts auf "Fertigstellen" klicken.
 
 ![Bild 4](OLAT_4.jpg)
+
+*Bild 4*
+
 
 ### Einrichten der Startseite
 
@@ -41,7 +48,11 @@ Nun wird unter dem Reiter "Info" die spätere Startseite eingerichtet; Die Eintr
 
 ![Bild 5](OLAT_5.png)
 
+*Bild 5*
+
 ![Bild 6](OLAT_6.png)
+
+*Bild 6*
 
 ### Metadaten und Katalogzuordnung
 
@@ -52,11 +63,14 @@ Unter "Durchführung" kann das entsprechende Semester eingetragen werden, sodass
 
 ![Bild 7](OLAT_7.jpg)
 
+*Bild 7*
 ## Mitgliederverwaltung
 
 Oben links auf "Administration", dann auf "Mitgliederverwaltung" klicken (s. Bild 8).
 
 ![Bild 8](OLAT_8.png)
+
+*Bild 8*
 
 Links auf "Gruppen", rechts auf das Zahnradsymbol, um diejenigen Kategorien auszuwählen, die bei der Ansicht der Gruppe(n) angezeigt werden sollen.
 
@@ -80,6 +94,8 @@ Ebenfalls unter "ändern" können die **Teilnehmendenzahl** begrenzt und die **W
 
 ![Bild 12](OLAT_12.png)
 
+*Bild 12*
+
 ## Kursbausteine verwalten und Gewährleistung von Datenschutz
 
 Über die Zurück-Buttons oben links kommt man wieder zur Ausgangsseite, wo nun unter "Administration" "Kurseditor" ausgewählt wird. Hier können Kursbausteine verändert, verschoben, gelöscht und hinzugefügt werden.
@@ -95,6 +111,7 @@ Häufig vorkommende Bausteine:
 * Big Blue Button
 * Wiki
 * SCORM
+* Link zu externer Seite (z.B. Kursmaterial)
 
 [Hier](https://docs.openolat.org/de/manual_user/learningresources/Course_Elements/) geht es zu einer Übersicht & Erläuterung der unterschiedlichen Kursbausteine bei OLAT. Zur Implementierung von E-Learning-Ressourcen in einen OLAT-Kurs beachten Sie auch die "Anleitung Implementierung mit SCORM".
 
@@ -106,12 +123,16 @@ Um einzelne Kursbausteine, wie etwa "Materialordner" oder "Forum" **nur für ein
 
 ![Bild 13](OLAT_13.png)
 
+*Bild 13*
+
 Alternativ kann man auch alles sichtbar lassen und über den Tab "Zugang" den Zugriff beschränken, aber das wäre umständlicher, da man dann wiederum Textblöcke erstellen muss, die unberechtigten Studierenden darlegen, warum sie etwas sehen, wozu sie keinen Zugriff haben etc.
 
 
 Den Kursbaustein "Einschreibung" wiederum kann man sinnigerweise **zwar immer sichtbar, aber erst ab einem bestimmten Zeitpunkt zugänglich** machen, indem man unter dem Tab "Zugang" auf "Datumsabhängig" klickt und ein Datum eingibt. Unter dem Tab "Sichtbarkeit" wiederum kann man unten einen entsprechenden Hinweis platzieren, ab wann die Einschreibung möglich ist (s. Bild 14).
 
 ![Bild 14](OLAT_14.png)
+
+*Bild 14*
 
 **Empfehlung**, wie man die Kursgestaltung insgesamt möglichst schlank hält, sodass sowohl der Erstellungsaufwand möglichst gering bleibt, als auch aus Studierendenperspektive **möglichst wenig Redundanzen und Orientierungsprobleme** entstehen:
 
@@ -140,3 +161,4 @@ Die Studierenden kommen so oder so auf die Start-/Infoseite, wenn sie den Kurs a
 
 [Seite des Rechenzentrums der CAU](https://www.rz.uni-kiel.de/de/angebote/e-learning/openolat)
 
+[Seite der elk.Medien](https://www.elearning.uni-kiel.de/de/startseite)
